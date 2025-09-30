@@ -1,0 +1,1 @@
+I did all my projects myself. This is my portfolio of my projects since the beginning of my development in the Python language. There can be different projects on completely different topics, games, CLI tools, programs with a grammatical interface, artificial intelligence (AI), and so on. That's all)
